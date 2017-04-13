@@ -1,147 +1,0 @@
-10
-
-dir
-0
-http://svn.chinascopefinancial.com/ada/main/tools/NeuralNetwork/John_toturial/ace
-http://svn.chinascopefinancial.com/ada
-add
-
-
-
-
-
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-29f27fb6-0a14-4e8d-9cfd-fa72f357fd6b
-
-.ipynb_checkpoints
-dir
-
-
-
-add
-
-DataSets.py
-file
-
-
-
-add
-
-DataSets_multi_task.py
-file
-
-
-
-add
-
-DataSets_multi_task_w2v.py
-file
-
-
-
-add
-
-DataSets_multi_task_w2v_2.py
-file
-
-
-
-add
-
-README.txt
-file
-
-
-
-add
-
-Test.ipynb
-file
-
-
-
-add
-
-Test01.py
-file
-
-
-
-add
-
-Untitled1-checkpoint.ipynb
-file
-
-
-
-add
-
-Untitled1.ipynb
-file
-
-
-
-add
-
-__init__.py
-file
-
-
-
-add
-
-ace_cnn_model_01.py
-file
-
-
-
-add
-
-ace_cnn_model_02.py
-file
-
-
-
-add
-
-ace_cnn_model_03.py
-file
-
-
-
-add
-
-ace_cnn_model_multi_task.py
-file
-
-
-
-add
-
-ace_cnn_model_multi_task_w2v.py
-file
-
-
-
-add
-
-cae_cnn_model_04.py
-file
-
-
-
-add
-
